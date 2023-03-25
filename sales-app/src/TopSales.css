@@ -1,0 +1,36 @@
+/* TopSales.css */
+
+.container {
+    max-width: 900px;
+    margin-top: 100px;
+  }
+  
+  .table {
+    margin-top: 3rem;
+    border: 1px solid #dee2e6;
+    box-shadow: #00ff66 0px 0px 10px 0px;
+  }
+  
+  .table td{
+    border-top: 1px solid #000d1b;
+    padding: 1.5rem;
+  }
+  .table th {
+    background-color: #0099ff;
+  }
+
+@media (max-width: 400px) {
+  .container {
+    margin-top: 50px;
+  }
+
+  .table {
+    margin-top: 1rem;
+  }
+
+  .table td {
+    padding: 0.2rem;
+  }
+
+ 
+}

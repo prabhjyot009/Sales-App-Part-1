@@ -1,0 +1,17 @@
+/* AddSale.css */
+.container {
+    max-width: 1000px;
+    margin-top: 200px;
+    box-shadow: #00ff66 0px 0px 10px 0px;
+  }
+  
+  .form-group {
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    
+  }
+  
+  .btn {
+    display: block;
+    width: 100%;
+  }
